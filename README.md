@@ -1,9 +1,4 @@
-# Assignment Description
+# How to Win at (3 games) by JH '23 
 
-written by 
-
-edit with appropriate link:
-
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Game-Theory-Day-JH)](https://repl.it/github/athenian-ct-projects/Game-Theory-Day-JH)
+* Winning stretgeies for Nim, Prisoner's Dilemma and the Pirate Game
